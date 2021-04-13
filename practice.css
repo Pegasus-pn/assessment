@@ -1,0 +1,18 @@
+
+.flex {
+    display: flex;
+}
+
+.flex-left {
+    display: flex;
+}
+
+.flex-right {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+a{
+    display: inline;
+}
+
